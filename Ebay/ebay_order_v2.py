@@ -17,8 +17,8 @@ import shutil
 import os
 
 
-user_id = "royalestateauction"
-password = "Alwayssunny!"
+user_id = "------------"
+password = "-----------"
 
 outputFile = "resultsEbay.csv"
 CHROME_PATH = "chromedriver.exe"
